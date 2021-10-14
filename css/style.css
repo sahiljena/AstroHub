@@ -1,0 +1,80 @@
+body{
+    font-family: sans-serif;
+    background: rgb(0,0,0);
+  }
+  main{
+    margin-top: 40px;
+  }
+  .top-web-header{
+    text-align: center;
+    padding: 5px;
+  }
+  .top-web-header h1{
+    color: rgb(254, 194, 96);
+  }
+  nav a {
+    color: #7C83FD;
+    font-size: 1.4em;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  nav a:hover{
+    color: rgb(254, 194, 96);
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  .zoadic-sign-image{
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+  }
+  #zoadic-signs{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  .zoadic-sign{
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 0px solid #000;
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(254, 194, 96,1);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(254, 194, 96,1);
+    box-shadow: 0px 0px 10px 0px rgba(254, 194, 96,1);
+    width: 35%;
+    text-align: center;
+    max-width: 400px;
+    color: rgb(61, 8, 123);
+    font-size: 1.4em;
+    font-weight: bold;
+    background: rgb(254, 194, 96);
+  }
+  .astro-card{
+    width: 90vw;
+    height: 90vh;
+    border: 0px solid red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFF;
+    border-radius: 10px;
+    padding: 10px;
+    display: none;
+  }
+  .sign-name{
+    margin-top: 10px;
+  }
+  #main-loader{
+    color: red;
+  }
+  footer{
+    text-align: center;
+    color: rgb(254, 194, 96);
+  }
+  footer a{
+    color: rgb(222, 9, 30);
+  }
