@@ -78,3 +78,47 @@ body{
   footer a{
     color: rgb(222, 9, 30);
   }
+  .astro-card{
+    width: 50vw;
+    height: 50vh;
+    border: 0px solid red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(254, 194, 96);
+    border-radius: 10px;
+    padding: 10px;
+    display: none;
+    -webkit-box-shadow: 0px 0px 300px 200px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 300px 200px rgba(0,0,0,1);
+  box-shadow: 0px 0px 300px 200px rgba(0,0,0,1);
+    padding: 20px !important;
+      overflow-y: auto;
+  }
+  #sign {
+    color: rgb(61, 8, 123);
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .astro-card #color{
+    margin-top: 50px !important;
+    font-size: 1.2em;
+  }
+  .astro-card #compatibility{
+    margin-top: 50px !important;
+    font-size: 1.2em;
+  }
+  .astro-card #description{
+    font-size: 1.3em;
+  }
+  .close-btn{
+    border: 2px solid rgb(61, 8, 123);
+    color: rgb(61, 8, 123);
+    background: rgb(254, 194, 96);
+    font-size: 1.05em;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 4px 10px;
+  }
