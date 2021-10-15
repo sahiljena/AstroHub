@@ -1,5 +1,5 @@
 # AstroHub <img src="https://i.ibb.co/hYt9hM1/AstroHub.png" alt="astrohub" align="right">
-AstroDaily is a live horoscope providing web app, built with JavaScript. You can check out the deployed live site - <a href="https://sahiljena.github.io/astrodaily/" alt="AstroDaily" target="_blank">AstroHub</a>
+AstroDaily is a live horoscope providing web app, built with JavaScript. You can check out the deployed live site - <a href="https://sahiljena.github.io/AstroHub/" alt="AstroDaily" target="_blank">AstroHub</a>
 
 ![](https://github.com/sahiljena/astrodaily?color=green&style=for-the-badge)
 ![](https://github.com/sahiljena/astrodaily?color=silver&style=for-the-badge)
